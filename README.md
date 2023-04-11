@@ -1,2 +1,4 @@
 # QuadTree
-Unity Simple QuadTree
+##一个简单的unity四叉树管理器
+
+###实现了线段、圆、旋转矩形、扇形的初略检测
